@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-// import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from './serviceWorker';
 import {GithubProvider} from './context/context';
 import {Auth0Provider} from '@auth0/auth0-react';
 
